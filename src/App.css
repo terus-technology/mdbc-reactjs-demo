@@ -1,0 +1,19 @@
+.container{
+  margin:8px;
+  padding: 8px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+button{
+  padding:4px 8px;
+  margin:2px 4px;
+}
+
+.container-iframe{
+  width: 100vw;
+  height: 90vh;
+  border: none;
+  background-color: azure;
+}
