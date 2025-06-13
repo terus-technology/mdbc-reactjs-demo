@@ -1,4 +1,4 @@
-# Example Code For MDBC Iframe Embeeding
+# Example Code For MDBC Embedding
 
 ## NOTE
 To prevent information leaks, this section of the function should be completed on the server side.
